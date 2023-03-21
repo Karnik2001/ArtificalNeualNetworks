@@ -7,6 +7,8 @@ https://www.udemy.com/course/deep-learning-masterclass/
 
 https://www.udemy.com/course/linear-regression-with-artificial-neural-network/
 
+https://www.udemy.com/course/deep-learning-basics-with-python/
+
 https://thecleverprogrammer.com/2021/07/09/end-to-end-fake-news-detection-with-python/
 
 https://thecleverprogrammer.com/2020/08/11/lstm-in-machine-learning/
