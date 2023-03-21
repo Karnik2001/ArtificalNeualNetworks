@@ -4,4 +4,5 @@ These are projects that I created during my Al Software Engineer Internship at R
 References:
 
 https://www.udemy.com/course/deep-learning-masterclass/
+https://www.udemy.com/course/linear-regression-with-artificial-neural-network/
 
